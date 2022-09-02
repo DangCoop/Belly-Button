@@ -2,6 +2,7 @@
 ---
 ---
 ![](./Images/Bact.jpg)
+
 *What can not be found in the human body. And now we are engaged in the study of bacteria located in our belly-button in order to synthesize protein.*
 
 ## Project Overview
